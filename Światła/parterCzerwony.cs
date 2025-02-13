@@ -22,7 +22,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?S31");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?S31");
             }
             catch (Exception ex)
             {
@@ -34,7 +34,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?S30");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?S30");
             }
             catch (Exception ex)
             {
@@ -46,7 +46,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?S41");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?S41");
             }
             catch (Exception ex)
             {
@@ -58,7 +58,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?S40");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?S40");
             }
             catch (Exception ex)
             {

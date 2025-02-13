@@ -22,7 +22,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X11");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X11");
             }
             catch (Exception ex)
             {
@@ -34,7 +34,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X10");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X10");
             }
             catch (Exception ex)
             {
@@ -46,7 +46,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X21");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X21");
             }
             catch (Exception ex)
             {
@@ -58,7 +58,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X20");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X20");
             }
             catch (Exception ex)
             {
@@ -70,7 +70,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X31");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X31");
             }
             catch (Exception ex)
             {
@@ -82,7 +82,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X30");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X30");
             }
             catch (Exception ex)
             {
@@ -94,7 +94,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X41");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X41");
             }
             catch (Exception ex)
             {
@@ -106,7 +106,7 @@ namespace Światła
         {
             try
             {
-                var data = new WebClient().DownloadString("http://19.168.2.10/?X40");
+                var data = new WebClient().DownloadString("http://192.168.2.10/?X40");
             }
             catch (Exception ex)
             {
